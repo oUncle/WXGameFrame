@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "M_FloorBase9",
+    "texture": "8ce396c3-6c0a-4c03-b0de-73f2c8478d40",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      100,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      100
+    ],
+    "capInsets": [
+      37,
+      37,
+      36,
+      36
+    ]
+  }
+}
